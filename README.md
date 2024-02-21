@@ -1,6 +1,6 @@
 # harness-gitops-workshop
 
-Some info here and here and here
+Some info here and here and here and here
 
 In this workshop, we'll use the Harness CI, CD, and GitOps modules to demonstrate an end-to-end software delivery process - from build to deployment following GitOps principles. 
 
